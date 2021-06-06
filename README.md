@@ -3,6 +3,10 @@
 # The Private Torrent
 **The Private torrent** is used for bypassing download limit on torrent files which was given by websites(Eg: TeamOS). The program stops sending download information to the announce URL so that users can download unlimited files from those websites.
 
+<p align="center">
+<img src='https://github.com/BiltuDas1/the-private-torrent/blob/main/logo.png?raw=true' height='400' width='400') 
+</p>
+
 * ### How Torrent works?
 If you download any file using any torrent client, then the file transfers from the Bittorrent network which uses Peer-to-Peer (P2P) connection. P2P network means the file is transferred by many computers using this Bittorrent network.
 
