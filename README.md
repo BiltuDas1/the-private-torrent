@@ -2,7 +2,7 @@
 **The Private torrent** is used for bypassing download limit on torrent files which was given by websites(Eg: TeamOS). The program stops sending download information to the announce URL so that users can download unlimited files from those websites.
 
 ### How Torrent works?
-If you download any file using any torrent client, then the file transfers from the Bittorrent network which uses Peer to Peer (P2P) connection. P2P network means the file is transferred by many computers using this Bittorrent network.
+If you download any file using any torrent client, then the file transfers from the Bittorrent network which uses Peer-to-Peer (P2P) connection. P2P network means the file is transferred by many computers using this Bittorrent network.
 
 While downloading torrent, your torrent client connects to the uploader and nearby computers (called seeder), then it starts downloading. It downloads files like IDM by parting the file. If the torrent file is downloaded many times and too many people are seeding the torrent, then your download will be very faster than a normal torrent file.
 
