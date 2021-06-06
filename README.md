@@ -23,4 +23,4 @@ But the modified torrent client (For Windows) doesn't follow the rule. It stops 
 ## Download and Installation
 
 **Windows:**
-Just Download the latest version of the Program, and Double-click on it, confirm Admin password, then it will install automatically (It's a silent installer).
+* Just Download the latest version of the Program, and Double-click on it, confirm Admin password, then it will install automatically (It's a silent installer).
