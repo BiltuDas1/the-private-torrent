@@ -8,7 +8,7 @@ While downloading torrent, your torrent client connect to the uploader and nerab
 
 After your torrent client gets all part, it then merges and them and verifies the the data. The end result is the files present on your storage and this is how torrent works.
 
-### What is seeders, peers, and leechers?  
+### What is seeders, peers and leechers?  
 Seeder is a person who has complete file, means he has downloaded the complete file.
 
 Peer is those persons who haven't downloaded completed file, they has pieces of the torrent data.
