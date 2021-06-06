@@ -1,3 +1,4 @@
+![GitHub release (by tag)](https://img.shields.io/github/downloads/biltudas1/the-private-torrent/latest/total?style=for-the-badge)
 # The Private Torrent
 **The Private torrent** is used for bypassing download limit on torrent files which was given by websites(Eg: TeamOS). The program stops sending download information to the announce URL so that users can download unlimited files from those websites.
 
