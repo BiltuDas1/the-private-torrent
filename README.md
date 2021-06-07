@@ -28,3 +28,6 @@ NOTE : MAKE SURE TO CHECK MD5 BEFORE USING, SOME ANTIVIRUS MAY DETECT THE PROGRA
 
 **Windows:**
 * Just Download the latest version of the Program, and Double-click on it, confirm Admin password, then it will install automatically (It's a silent installer).
+
+**Linux:**
+* Download The Private Torrent Script, Extract the archive file, and launch the install file. You will get an output `` Private Torrent has been intregrated into your <Client Name> ``, after that you can use your Torrent client.
