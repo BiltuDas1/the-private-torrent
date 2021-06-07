@@ -1,0 +1,6 @@
+sed -i "s/biltudas1/$USER/" "qBittorrent.conf"
+cp "qBittorrent.conf" "/home/$USER/.config/qBittorrent"
+mkdir "/home/$USER/.local/share/qBittorrent/BiltuDas1"
+cp "torrent.sh" "/home/$USER/.local/share/qBittorrent/BiltuDas1/torrent.sh"
+rm -r "/home/$USER/.local/share/qBittorrent/BT_backup"
+notify-send 'The Private Torrent' 'Private torrent has been intregrated into your qBittorrent'
