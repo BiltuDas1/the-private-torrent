@@ -23,6 +23,8 @@ Originally, all operations are done by our Bittorrent client. If our client got 
 
 But the modified torrent client (For Windows) doesn't follow the rule. It stops sending announce url about download information, so that the announce url doesn't detect how much size of data are downloaded (But, it has some limit).
 
+**Note:** The torrent should be downloaded before the tracker update time.
+
 ## Download and Installation
 
 NOTE : MAKE SURE TO CHECK MD5 BEFORE USING, SOME ANTIVIRUS MAY DETECT THE PROGRAM AS VIRUS, IT'S FALSE POSITIVE.
