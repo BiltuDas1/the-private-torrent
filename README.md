@@ -16,7 +16,7 @@ Seeders are the people who have the complete file, means they have downloaded th
 
 Peers are those persons who haven't downloaded the complete file, they have pieces of the torrent data.
 
-Leechers are those persons who downloaded complete files, but they don't share his data to the seeders or peers.
+Leechers are those persons who downloaded complete file, but they don't share his data to the seeders or peers.
 
 ## How the Program Works?  
 Usually, all operations are done by our Bittorrent client. If our client got a seeding request, then it seeds.
