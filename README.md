@@ -21,9 +21,9 @@ Leechers are those persons who downloaded complete files, but they don't share h
 ## How the Program Works?  
 Originally, all operations are done by our Bittorrent client. If our client got a seeding request, then it seeds.
 
-But the modified torrent client (For Windows) doesn't follow the rule. It stops sending announce url about download information, so that the announce url doesn't detect how much size of data are downloaded (But, it has some limit).
+But the modified torrent client (For Windows) doesn't follow the rule. It stops sending announce url about download information, so that the announce url doesn't detect how much size of data are downloaded.
 
-**Note:** The torrent should be downloaded before the tracker update time.
+**Note:** The torrent should be downloaded before the tracker update time ends.
 
 ## Download and Installation
 
