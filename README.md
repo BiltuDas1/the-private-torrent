@@ -33,4 +33,8 @@ NOTE : MAKE SURE TO CHECK MD5 BEFORE USING, SOME ANTIVIRUS MAY DETECT THE PROGRA
 * Just Download the latest version of the Program, and Double-click on it, confirm Admin password, then it will install automatically (It's a silent installer).
 
 **Linux:**
-* Download The Private Torrent Script, Extract the archive file, and launch the install file. You will get an output as `` Private Torrent has been intregrated into your [Client Name] ``, after that you can use your Torrent client.
+* qBittorrent: Install and Launch qBitttorrent (Don't add any torrent and keep all settings by default). Now close the qBittorrent, Make sure you closed qBittorrent from the tray. Now extract the archive file. Open Terminal into the extracted folder directory with user permission (Don't run it as Adminisrator) and type  
+```
+bash install
+```
+  
