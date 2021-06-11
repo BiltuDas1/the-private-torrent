@@ -1,3 +1,14 @@
+<!-- Hello I am posting a trick to download unlimited from all private trackers in a way that you would appear to download ratio free be it on without 
+any tool What cd waffles Torrentleech Sceneaccess Bitme Bitmetv almost on all private trackers that exist today So Here it goes Download the  
+torrent file from your private torrent site and start downloading it in your torrent client like utorrent or bittorrent (havent tried on other 
+clients) click on the torrent being downloaded and then click on the TRACKERS tab below as shown Here u will notice a backward timer being played 
+its torrent announce interval and varies from site to site as shown The main thing u have to do is to exit the utorrent or bittorrent client 
+without stopping the torrent(very important) when this timer is close to reaching 0 U can exit the client maybe around 1m or 30s or 10s but 
+before when it reaches 0 else it wont work as shown below What will happen here is watever u downloaded/uploaded in this interval wont get 
+recorded on the site and in a way u would have downloaded the file and it would appear to the tracker that the file wasnt downloaded It would 
+work wonders for those on BITMETV BITME coz the announce interval is of arnd 40m and on some sites its even 1-2hr It would also work wonder for 
+those with very high speed connections Hope u enjoy this trick  -->
+
 [![Latest Stable](https://img.shields.io/github/downloads/biltudas1/the-private-torrent/total.svg?color=brightgreen&style=for-the-badge)](https://github.com/BiltuDas1/the-private-torrent/releases/latest)
 [![BETA Versions Linux](https://img.shields.io/badge/Linux-BETA-critical?style=for-the-badge)](https://github.com/BiltuDas1/the-private-torrent/releases/tag/1.0.3)
 [![Issue](https://img.shields.io/badge/Create-Issue-informational?style=for-the-badge)](https://github.com/BiltuDas1/the-private-torrent/issues/new/choose)
