@@ -1,5 +1,5 @@
 [![Latest Stable](https://img.shields.io/github/downloads/biltudas1/the-private-torrent/total.svg?color=brightgreen&style=for-the-badge)](https://github.com/BiltuDas1/the-private-torrent/releases/latest)
-[![BETA Versions](https://img.shields.io/badge/Downloads-BETA-critical?style=for-the-badge)](https://github.com/BiltuDas1/the-private-torrent/releases)
+[![BETA Versions](https://img.shields.io/badge/Downloads-BETA-critical?style=for-the-badge)](https://github.com/BiltuDas1/the-private-torrent/releases/tag/1.0.3)
 [![Issue](https://img.shields.io/badge/Create-Issue-informational?style=for-the-badge)](https://github.com/BiltuDas1/the-private-torrent/issues/new/choose)
 # The Private Torrent
 **The Private torrent** is used for bypassing download limit on torrent files which was given by websites(Eg: TeamOS). The program stops sending download information to the announce URL so that users can download unlimited files from those websites.
@@ -24,6 +24,7 @@ Usually, all operations are done by our Bittorrent client. If our client got a s
 But the modified torrent client (For Windows) doesn't follow the rule. It stops sending announce url about download information, so that the announce url doesn't detect how much size of data are downloaded.
 
 **Note:** The torrent should be downloaded before the tracker update time ends.
+**Edit:** Now The Windows Application only can bypass announce update time, just you need to use Pause button before the update time ends.
 
 ## Download and Installation
 
@@ -37,4 +38,3 @@ NOTE : MAKE SURE TO CHECK MD5 BEFORE USING, SOME ANTIVIRUS MAY DETECT THE PROGRA
 ```
 bash install
 ```
-  
