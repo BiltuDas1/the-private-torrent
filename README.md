@@ -23,7 +23,7 @@ Usually, all operations are done by our Bittorrent client. If our client got a s
 
 But the modified torrent client (For Windows) doesn't follow the rule. It stops sending announce url about download information, so that the announce url doesn't detect how much size of data are downloaded.
 
-**Note:** The torrent should be downloaded before the tracker update time ends.
+**Note:** The torrent should be downloaded before the tracker update time ends.  
 **Edit:** Now The Windows Application only can bypass announce update time, just you need to use Pause button before the update time ends.
 
 ## Download and Installation
