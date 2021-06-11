@@ -18,4 +18,15 @@ else
     cp "torrent.sh" "/home/$USER/snap/qbittorrent-arnatious/83/.local/share/qBittorrent/BiltuDas1"
     rm -r "/home/$USER/snap/qbittorrent-arnatious/83/.local/share/qBittorrent/BT_backup"
 fi
-notify-send 'The Private Torrent' 'Private torrent has been intregrated into your qBittorrent'
+if [[ -f "/home/$USER/.config/qBittorrent/qBittorrent.conf" && -f "/home/$USER/.local/share/qBittorrent/BiltuDas1/torrent.sh" ]]
+then
+    notify-send 'The Private Torrent' 'Private torrent has been intregrated into your qBittorrent'
+else
+    if [[ -f "/home/$USER/snap/qbittorrent-arnatious/83/.config/qBittorrent/qBittorrent.conf" && -f "/home/$USER/snap/qbittorrent-arnatious/83/.local/share/qBittorrent/BiltuDas1/torrent.sh" ]]
+then
+    notify-send 'The Private Torrent' 'Private torrent has been intregrated into your qBittorrent'
+else
+    exit
+fi
+fi
+
