@@ -1,4 +1,4 @@
-# The Private Torrent
+<h1> The Private Torrent </h1>
 **The Private torrent** is used for bypassing download limit on torrent files which was given by websites(Eg: TeamOS). The program stops sending download information to the announce URL so that users can download unlimited files from those websites.
 
 * ### How Torrent works?
