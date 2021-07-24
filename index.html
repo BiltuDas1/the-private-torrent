@@ -45,15 +45,7 @@
           <a href="https://github.com/BiltuDas1/the-private-torrent/issues/new/choose"><img src="https://img.shields.io/badge/Create-Issue-informational?style=for-the-badge" alt="Issue" /></a></p>
       </div>
     </header>
-<div id="wrapper">
-
-<?php
- $myfile = fopen("README.md", "r") or die("Unable to open file!");
- echo fread($myfile,filesize("content.txt"));
- fclose($myfile);
-?>
-
-</div>
+<iframe src="README.md" width=200 height=200 frameborder=0 id="frame">
     <embed src="README.md">
     <script>
       const fileUrl = 'README.md' // provide file location
