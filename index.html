@@ -11,13 +11,6 @@
     }
     </style>
     
-        <script src="jquery.js"></script> 
-    <script> 
-    $(function(){
-      $("#includedContent").load("index.txt"); 
-    });
-    </script> 
-    
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -62,7 +55,7 @@
       </div>
     </header>
     <div class="inner">
-      <div id="includedContent"></div>
+    <include src="index.txt"></include>
     <embed src="index.txt" type="text/html" class="full-width">
       </div>
   </body>
