@@ -1,0 +1,111 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/the-private-torrent/assets/css/style.css?v=40724651bc7e38a28fb9de6f7daa01b356479457" media="screen" type="text/css">
+    <link rel="stylesheet" href="/the-private-torrent/assets/css/print.css" media="print" type="text/css">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>the-private-torrent | A special repo that used for bypassing limit of private torrents which given by websites</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="the-private-torrent" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A special repo that used for bypassing limit of private torrents which given by websites" />
+<meta property="og:description" content="A special repo that used for bypassing limit of private torrents which given by websites" />
+<link rel="canonical" href="https://biltudas1.github.io/the-private-torrent/" />
+<meta property="og:url" content="https://biltudas1.github.io/the-private-torrent/" />
+<meta property="og:site_name" content="the-private-torrent" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="the-private-torrent" />
+<script type="application/ld+json">
+{"description":"A special repo that used for bypassing limit of private torrents which given by websites","url":"https://biltudas1.github.io/the-private-torrent/","@type":"WebSite","headline":"the-private-torrent","name":"the-private-torrent","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <a href="https://biltudas1.github.io/the-private-torrent/">
+          <h1>The Private Torrent</h1>
+        </a>
+        <h2>A special repo that used for bypassing limit of private torrents which given by websites</h2>
+
+          <a href="https://github.com/BiltuDas1/the-private-torrent" class="button"><small>View project on</small> GitHub</a>
+
+
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <p><a href="https://github.com/BiltuDas1/the-private-torrent/releases/latest"><img src="https://img.shields.io/github/downloads/biltudas1/the-private-torrent/total.svg?color=brightgreen&amp;style=for-the-badge&amp;label=Stable" alt="Latest Stable" /></a>
+<a href="https://github.com/BiltuDas1/the-private-torrent/releases/tag/1.0.3"><img src="https://img.shields.io/github/downloads-pre/biltudas1/the-private-torrent/latest/total?color=critical&amp;style=for-the-badge&amp;label=BETA" alt="Latest Beta" /></a>
+<a href="https://github.com/BiltuDas1/the-private-torrent/issues/new/choose"><img src="https://img.shields.io/badge/Create-Issue-informational?style=for-the-badge" alt="Issue" /></a></p>
+<h1 id="the-private-torrent">The Private Torrent</h1>
+<p><strong>The Private torrent</strong> is used for bypassing download limit on torrent files which was given by websites(Eg: TeamOS). The program stops sending download information to the announce URL so that users can download unlimited files from those websites.</p>
+
+<ul>
+  <li>
+    <h3 id="how-torrent-works">How Torrent works?</h3>
+    <p>If you download any file using any torrent client, then the file transfers from the Bittorrent network which uses Peer-to-Peer (P2P) connection. P2P network means the file is transferred by many computers using this Bittorrent network.</p>
+  </li>
+</ul>
+
+<p>While downloading torrent, your torrent client connects to the uploader and nearby computers (called seeder), then it starts downloading. It downloads files like IDM by parting the file. If the torrent file is downloaded many times and too many people are seeding the torrent, then your download will be very faster than a normal torrent file.</p>
+
+<p>After your torrent client gets all parts, it then merges them and verifies the data. The end result is the files present on your storage and this is how torrent works.</p>
+
+<ul>
+  <li>
+    <h3 id="what-are-seeders-peers-and-leechers">What are seeders, peers and leechers?</h3>
+    <p>Seeders are the people who have the complete file, means they have downloaded the complete file.</p>
+  </li>
+</ul>
+
+<p>Peers are those persons who haven’t downloaded the complete file, they have pieces of the torrent data.</p>
+
+<p>Leechers are those persons who downloaded complete file, but they don’t share his data to the seeders or peers.</p>
+
+<h2 id="how-the-program-works">How the Program Works?</h2>
+<p>Usually, all operations are done by our Bittorrent client. If our client got a seeding request, then it seeds.</p>
+
+<p>But the modified torrent client (For Windows) doesn’t follow the rule. It stops sending announce url about download information, so that the announce url doesn’t detect how much size of data are downloaded.</p>
+
+<p><strong>Note:</strong> The torrent should be downloaded before the tracker update time ends.<br />
+<strong>Edit:</strong> Now The Windows Application only can bypass announce update time, just you need to use Pause button before the update time ends.</p>
+
+<h2 id="download-and-installation">Download and Installation</h2>
+
+<p>NOTE : MAKE SURE TO CHECK MD5 BEFORE USING, SOME ANTIVIRUS MAY DETECT THE PROGRAM AS VIRUS, IT’S FALSE POSITIVE.</p>
+
+<p><strong>Windows:</strong></p>
+<ul>
+  <li>Just Download the latest version of the Program, and Double-click on it, confirm Admin password, then it will install automatically (It’s a silent installer).</li>
+</ul>
+
+<p><strong>Linux:</strong></p>
+<ul>
+  <li>qBittorrent: Install and Launch qBitttorrent (Don’t add any torrent and keep all settings by default). Now close the qBittorrent, Make sure you closed qBittorrent from the tray. Now extract the archive file. Open Terminal into the extracted folder directory with user permission (Don’t run it as Adminisrator) and type
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bash install
+</code></pre></div>    </div>
+    <p><strong>macOS:</strong></p>
+  </li>
+  <li>Coming Soon…</li>
+</ul>
+
+        </section>
+      </div>
+    </div>
+
+
+  </body>
+</html>
