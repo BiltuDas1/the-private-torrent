@@ -45,5 +45,12 @@
           <a href="https://github.com/BiltuDas1/the-private-torrent/issues/new/choose"><img src="https://img.shields.io/badge/Create-Issue-informational?style=for-the-badge" alt="Issue" /></a></p>
       </div>
     </header>
+    <script>
+      const fileUrl = 'README.md' // provide file location
+
+fetch(fileUrl)
+   .then( r => r.text() )
+   .then( t => console.log(t) )
+    </script>
   </body>
 </html>
