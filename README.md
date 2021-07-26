@@ -38,5 +38,6 @@ NOTE : MAKE SURE TO CHECK MD5 BEFORE USING, SOME ANTIVIRUS MAY DETECT THE PROGRA
 ```
 bash install
 ```
+
 **macOS:**
 * Coming Soon...
