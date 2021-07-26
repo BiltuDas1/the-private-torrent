@@ -1,4 +1,4 @@
-[![Latest Stable](https://img.shields.io/github/downloads/biltudas1/the-private-torrent/total.svg?color=brightgreen&style=for-the-badge&label=Stable)](https://github.com/BiltuDas1/the-private-torrent/releases/latest)
+[![Latest Stable](https://img.shields.io/github/downloads/biltudas1/the-private-torrent/latest/total?color=brightgreen&style=for-the-badge&label=Stable)](https://github.com/BiltuDas1/the-private-torrent/releases/latest)
 [![Latest Beta](https://img.shields.io/github/downloads-pre/biltudas1/the-private-torrent/latest/total?color=critical&style=for-the-badge&label=BETA)](https://github.com/BiltuDas1/the-private-torrent/releases/tag/1.0.3)
 [![Issue](https://img.shields.io/badge/Create-Issue-informational?style=for-the-badge)](https://github.com/BiltuDas1/the-private-torrent/issues/new/choose)
 # The Private Torrent
