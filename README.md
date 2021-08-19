@@ -41,3 +41,6 @@ bash install
 
 **macOS:**
 * Coming Soon...
+
+# Contact
+If you are interested then you can join into our telegram group [@techsouls0](https://t.me/techsouls0) or channel [@tecsouls](https://t.me/tecsouls)
